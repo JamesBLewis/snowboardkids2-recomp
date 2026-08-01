@@ -12,7 +12,7 @@ Join the [N64: Recompiled Community Discord](https://discord.gg/AWZThJ4dPf) to d
 
 You're also welcome to join the [Snowboard Kids Community Discord](https://discord.gg/bwQ85rUED), an active and welcoming server for fans of the series.
 
-[![Discord Invitation](https://discordapp.com/api/guilds/729856662357278750/widget.png?style=banner2 "Snowboard Kids")](https://discord.gg/bwQ85rUED)
+[![Discord Invitation](https://discordapp.com/api/guilds/729856662357278750/widget.png?style=banner2 "Snowboard Kids")](https://discord.gg/ASJMYtSGcf)
 
 ### **This repository and its releases do not contain game assets. The original game is required to build or run this project.**
 
